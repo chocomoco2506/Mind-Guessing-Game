@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Page</title>
+    <link rel="stylesheet" href="answer.css">
+</head>
+<body>
+    <!-- Video Background -->
+    <div class="video-background">
+        <video autoplay muted loop id="bg-video">
+            <source src="Question Mark Background Videos_ HD_4k clips(720P_HD).mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <!-- Third Page Content -->
+    <div class="container">
+        <header>
+            <h1>You are thinking of...</h1>
+        </header>
+
+        <main>
+            <!-- Predicted Photo -->
+            <div class="image-container">
+                <img src="6365294-removebg-preview.png" alt="Predicted Image" class="bounce">
+            </div>
+
+            <!-- Prediction Name -->
+            <div class="prediction-name">
+                <p>John Doe</p>
+            </div>
+
+            <!-- Fact Section -->
+            <div class="fact-section">
+                <p class="fact-text">
+                    John Doe is a fictional name used to refer to an unknown person. It is often used in legal contexts or as a placeholder name.
+                </p>
+            </div>
+
+            <!-- Buttons -->
+            <div class="buttons">
+                <button class="restart-button" onclick="restartGame()">Restart</button>
+            </div>
+        </main>
+    </div>
+
+    <script>
+
+        // Function to restart the game
+        function restartGame() {
+            window.location.href = "home.html"; // Redirects to the home page
+        }
+    </script>
+</body>
+</html>

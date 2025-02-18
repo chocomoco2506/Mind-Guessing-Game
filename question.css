@@ -1,0 +1,116 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Video Background */
+.video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+#bg-video {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+/* Container */
+.container {
+    text-align: center;
+    background-color: #fff; /* Semi-transparent white */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    width: 40%;
+}
+
+/* Image Container */
+.image-container {
+    display: inline-block;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #fff;
+   
+}
+
+.image-container img {
+    width: 300px; /* Larger image */
+    height: 300px;
+    border-radius: 10px;
+    display: block;
+}
+
+/* Bounce Animation */
+@keyframes bounce {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+.bounce {
+    animation: bounce 2s infinite ease-in-out;
+}
+
+/* Question Container */
+.question-container {
+    margin-top: 20px;
+}
+
+.question {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.yes-button, .no-button {
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.yes-button {
+    background-color: #28a745; /* Green */
+}
+
+.no-button {
+    background-color: #dc3545; /* Red */
+}
+
+.yes-button:hover {
+    background-color: #218838;
+}
+
+.no-button:hover {
+    background-color: #c82333;
+}

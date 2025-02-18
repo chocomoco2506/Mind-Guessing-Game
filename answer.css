@@ -1,0 +1,125 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Video Background */
+.video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+#bg-video {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+/* Container */
+.container {
+    text-align: center;
+    background-color: #fff; /* Semi-transparent white */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    width: 50%;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Image Container */
+.image-container {
+    display: inline-block;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.image-container img {
+    width: 200px; /* Larger image */
+    height: 200px;
+    border-radius: 10px;
+    display: block;
+}
+
+
+/* Prediction Name */
+.prediction-name {
+    margin-top: 20px;
+}
+
+.prediction-name p {
+    font-size: 2rem;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Fact Section */
+.fact-section {
+    margin-top: 20px;
+    text-align: left;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fact-section h2 {
+    font-size: 1.7rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.fact-section .fact-text {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.6;
+}
+/* Buttons */
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.restart-button {
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.restart-button {
+    background-color: #28a745; /* Green */
+}
+
+
+
+.restart-button:hover {
+    background-color: #218838;
+}

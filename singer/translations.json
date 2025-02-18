@@ -1,0 +1,184 @@
+{    
+    "Is the singer":"သင်စဥ်းစားနေတဲ့အဆိုတော်",
+    "Type":"က",
+    "Group":"Group(အဖွဲ့)နဲ့ဆိုတဲ့သူလား",
+    "Solo":"Soloist(တစ်ယောက်တည်း)ဆိုတဲ့သူလား",    
+
+    "GroupName":"အဖွဲ့နာမည်က",
+    "One Direction":"One Directorလား",
+    "Westlife":"Wetlifeလား",
+    "BLACKPINK":"BLACKPINKလား",
+    "BTS":"BTSလား",
+    "Girls' Generation":"Girls' Generationလား",
+    "EXO":"EXOလား",
+    "Twice":"Twiceလား",
+    "BigBang":"BigBangလား",
+    "Baby Monster":"Baby Monsterလား",
+
+    "Gender":"Genderက",
+    "Male":"ယောကျာ်းလား",
+    "Female":"မိန်းမလား",
+
+    "Award":"က",
+    "Grammy Awards":"Grammy Awardsရဖူးလား",
+    "MAMA Awards":"MAMA Awardsရဖူးလား",
+
+    "Nationality":"က",
+    "American":"အနောက်တိုင်းကလား",
+    "Korean":"ကိုရီးယားကလား",
+    "Myanmar":"မြန်မာကလား",
+
+
+    "Age":"က",
+    "15,20":"အသက်15နှစ်နှင့်20ကြားဖြစ်ပါသည်",
+    "20,30":"အသက်20နှစ်နှင့်30ကြားဖြစ်ပါသည်",
+    "30,40":"အသက်30နှစ်နှင့်40ကြားဖြစ်ပါသည်",
+    "40,50":"အသက်40နှစ်နှင့်50ကြားဖြစ်ပါသည်",
+    "50,60":"အသက်ငါးဆယ်နှင့်အထက်ဖြစ်သည်",
+    "Died":"ဆုံးသွားပြီလား",
+
+
+    "MusicGenre":"သည်",
+    "Pop":"အများအားဖြင့်Popအမျိုးအစားဆိုလေ့ရှိသည်",
+    "Hip-Hop":"အများအားဖြင့်Hip-Hopအမျိုးအစားဆိုလေ့ရှိသည်",
+    "K-pop":"အများအားဖြင့်K-popအမျိုးအစားဆိုလေ့ရှိသည်",
+    "Rock":"အများအားဖြင့်Rockအမျိုးအစားဆိုလေ့ရှိသည်",
+    "Burmese Country":"အများအားဖြင့်မြန်မာသံစဥ်အမျိုးအစားဆိုလေ့ရှိသည်",
+    "Rap":"အများအားဖြင့်Rapအမျိုးအစားဆိုလေ့ရှိသည်",
+
+
+    "GroupPosition":"ရဲ့K-Popအဖွဲ့တွင် Group Position က",
+    "Visual ":"Visual ဖြစ်သည်",
+    "Main Dancer":"Main Dancerဖြစ်သည်",
+    "Main Rapper":"Main Rapperဖြစ်သည်",
+    "Main Vocalist ":"Main Vocalistဖြစ်သည်",
+    "Main Dancer":"Main Dancerဖြစ်သည်",
+    "Rapper":"Rapperဖြစ်သည်",
+    "Lead Vocalist ":"Lead Vocalistဖြစ်သည်",
+    "Sub Vocalist ":"Sub Vocalistဖြစ်သည်",
+    "Main Dancer":"Main Dancerဖြစ်သည်",
+    "Rapper":"Rapperဖြစ်သည်",
+    "Center":"Center ဖြစ်သည်",
+    "Lead Rapper":"Lead Rapperဖြစ်သည်",
+
+
+
+    "Relationship":"က",
+    "Married":"လက်ထပ်ပြီးပါပြီ",
+    "Unmarried":"လက်မထပ်ရသေးပါ",
+
+    "PopularSong":"ရဲ့လူသိများတဲ့သီချင်းတစ်ပုဒ်မှာ-",
+    "Ma Sone Thaw Lan":"မဆုံသောလမ်း",
+    "Shwe Lal Tine":"ရွှေလည်တိုင်",
+    "Myay Ni Lan":"မြေနီလမ်း",
+    "Kyal Tway Sone Tae Nya":"ကြယ်တွေဆုံတဲ့ည",
+    "Arr Lone OK":"အားလုံးအိုကေ",
+    "A Chit So Tar Lyoe Watt Chat Ta Khu Bar":"အချစ်ဆိုတာလျှို့ဝှက်ချက်တစ်ခုပါ",
+    "Waiting for you":"Waiting for you",
+    "A Mone Pin":"အမုန်းပင်",
+    "Phyay Theint Lite":"ဖြေသိမ့်လိုက်",
+    "Stand by me":"Stand by me",
+    "Lay Pyay":"လေပြေ",
+    "Way Myar Way Yin":"ဝေးများဝေးရင်",
+    "Tin Tal Tin Tal":"တင်းတယ်တင်းတယ်",
+    "Kyal Ka Lay Yae Pone Pyin":"ကြယ်ကလေးရဲ့ပုံပြင်",
+    "Nin Lan Tway Khae Yin":"နင်လမ်းတွေ့ခဲ့ရင်",
+    "A Yate Ta Khu Lo":"အရိပ်တစ်ခုလို",
+    "Ma Yone Naing Buu":"မယုံနိုင်ဘူး",
+    "Hlae Sarr Lite":"လှည့်စားလိုက်",
+    "Ko Gyi":"ကိုကြီး",
+    "A Htar Kya Tae A Chit":"အထာကျတဲ့အချစ်",
+    "Myat Won":"မျက်ဝန်း",
+    "Shan Pal Poat Lay Kyanor":"ရှမ်းပဲပုတ်လေးကျွန်တော်",
+    "Yong Ni":"ရောင်နီ",
+    "Juu Di":"ဂျူဒီ",
+    "Maung Nae Ma Lwan Po":"မောင်နဲ့မလွမ်းပို",
+    "Ga Bar A Set Set":"ကမ္ဘာအဆက်ဆက်",
+    "Space Dream":"Space Dream",
+    "Chan Myae Par Sae":"ချမ်းမြေ့ပါစေ",
+    "Ko Yae Chit Thu":"ကို့ရဲ့ချစ်သူ",
+    "Taung Yar Win Chain":"တောင်ယာဝင်ချိန်",
+    "Taw Golli":"တောဂေါ်လီ",
+    "Chit Lite Par Top Kwal":"ချစ်လိုက်ပါတော့ကွယ်",
+    "Shin Yal":"ရှင်ရယ်...",
+    "Say":"ဆေး",
+    "Yone Lar":"ယုံလား",
+    "Min Sin Sar":"မင်းစဉ်းစား",
+    "A Chit Myat Wun":"အချစ်မျက်ဝန်း",
+    "Moe Yarthi Htal":"မိုးရာသီထဲ",
+    "Chit Tal":"ချစ်တယ်",
+    "Than Yaw Zin":"သံ‌ယောဇဉ်လွန်းတင်တဲ့ကြိုး",
+    "Mhar Pyan Tal":"မှားပြန်တယ်",
+    "Lan Ma Gyi Yae Bae":"လမ်းမကြီးရဲ့ဘေး",
+    "Chit Lite Par Top Kwal":"ချစ်လိုက်ပါတော့ကွယ်",
+    "Say":"ဆေး",
+    "Wal Lel Lel":"ဝဲလည်လည်",
+    "D Thachin Lay":"ဒီသီချင်းလေးကြားရင်",
+    "To Friend":"သို သူငယ်ချင်း",
+    "Ma Chit Ya Buu Tae Lar":"မချစ်ရဘူးတဲ့လား",
+    "Nya Mway Pan(Cover)":"ညမွှေးပန်း (cover)",
+
+
+    "Collaboration":"က",
+    "Bruno Mars(Die with a smile)":"Bruno Mars(Die with a smile) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Rose(Apt)":"Rose(Apt) နှင့် Collaboration လုပ်ထားပါသည်",
+    "BTS(Boy with Luv)":"BTS(Boy with Luv) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Justin Biber(Next to U)":"Justin Biber(Next to U) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Taylor Swift(I don't wanna live forever)":"Taylor Swift(I don't wanna live forever) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Black Pink(Icecream)":"Black Pink(Icecream) နှင့် Collaboration လုပ်ထားပါသည်",
+    "G-Dragon(Black)":"G-Dragon(Black) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Bruno Mars(Apt)":"Bruno Mars(Apt) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Becky G(Chicken Noodle Soup)":"Becky G(Chicken Noodle Soup) နှင့် Collaboration လုပ်ထားပါသည်" ,
+    "Sugar(Eight)":"Sugar(Eight) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Amera Hpone(Ga Bar A Set Set)":"Amera Hpone(Ga Bar A Set Set) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Bunny Phyo(Ga Bar A Set Set)":"Bunny Phyo(Ga Bar A Set Set) နှင့် Collaboration လုပ်ထားပါသည်",
+    "Selena Gomez(We don't talk anymore)":"Selena Gomez(We don't talk anymore) နှင့် Collaboration လုပ်ထားပါသည်",
+    
+
+    "Special":"က",
+    "Ex of Bobby Soxer":" Bobby Soxer ရဲ့ရည်းစားဟောင်းဖြစ်ပါသည်",
+    "Academy":" မြန်မာ့ရုပ်ရှင် အကယ်ဒမီဆုရဖူးပါသည်",
+    "Ex of Hlwan Paing":" လွှမ်းပိုင် ရဲ့ရည်းစားဟောင်းဖြစ်ပါသည်",
+    "Partner of Chit Thu Wai":" ချစ်သူ့ဝေ နှင့် လက်ထပ်ထားပါသည်",
+    "Daughter of Singer My":" စတူဒီယိုအဆိုတော် မိုင် ရဲ့သမီးဖြစ်ပါသည်",
+    "Eipmat Sone Yar Campion":" အိမ်မက်ဆုံရာ ရာသက်ပန်ရဲ့ ပထမဆုံး winner ဖြစ်ပါသည်",
+    "Partner of Yan Kyaw":" သရုပ်ဆောင်ရန်ကျော် နှင့်လက်ထပ်ထားပါသည်",
+    "Sister of Yar Zar Nay Win":" သရုပ်ဆောင်ရာဇာနေဝင်းရဲ့ ဆွေမျိုးဖြစ်ပါသည်",
+    "Old Partner of Htoo El Lin":" ထူးအယ်လင်းနှင့် တစ်ချိန်က လက်ထပ်ခဲ့ဖူးပါသည်",
+    "Myanmar Idol Judge":" Myanmar Idol တွင်ဒိုင်လုပ်ဖူးပါသည်",
+    "Multiple Married":" အကြိမ်ပေါင်းများစွာ လက်ထပ်ဖူးပါသည်",
+    "Ex of Nan Su":" နန်းစုရတီစိုးရဲ့ ရည်းစားဟောင်းဖြစ်ပါသည်",
+
+
+
+    "Actor":"မှာ",
+    "yes":"ရုပ်ရှင်သရုပ်ဆောင်တစ်ယောက်လည်းဖြစ်ပါသည်",
+
+
+
+    "Special American":"သည် ",
+    "Best Friend of Selena Gomez":"Selena Gomez နှင့်အချစ်ဆုံးသူငယ်ချင်းဖြစ်ပါသည်",
+    "Ex of Selena Gomez":"Selena Gomez ရဲ့ ရည်းစားဟောင်းဖြစ်ပါသည်",
+    "Green Hair":"ဆံပင်အစိမ်းရောင် နှင့်တွဲဖက်မြင်လေ့ရှိကြသည်",
+    "Landon":"London သားတစ်ယောက်နှင့်ချစ်ကြိုက်နေကြပါသည်",
+    "Short hair,Long Hair":"ဆံပင် အတိုတစ်ဖက် အရှည်တစ်ဖက်နှင့်တွဲဖက်မြင်လေ့ရှိကြသည်",
+    "Rap God":"Rap လောက၏ God ဟုခေါ်ကြသည်",
+    "Ex of Camila Cabello":"Camila Cabello ရဲ့ ရည်းစားဟောင်းဖြစ်ပါသည်",
+    "Old member of Fifth Harmony":"Fifth Harmony အဖွဲရဲ့ member တစ်ယောက်ဖြစ်ပါသည်",
+
+
+
+    "Special Korean":"သည် ",
+    "Thailand":"ထိုင်းနိုင်ငံတွင် မွေးဖွားပါသည်",
+    "Leader":"အဖွဲ၏ ခေါင်းဆောင်လဲဖြစ်သည်",
+    "Japan":"ဂျပန်နိုင်ငံတွင် မွေးဖွားပါသည်",
+    "Thaiwan":"ထိုင်ဝမ်နိုင်ငံတွင် မွေးဖွားပါသည်"
+    
+
+
+
+   
+
+
+
+}
